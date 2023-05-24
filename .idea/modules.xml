@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../codeCaprice/codeCaprice.iml" filepath="$PROJECT_DIR$/../codeCaprice/codeCaprice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw/hw.iml" filepath="$PROJECT_DIR$/hw/hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../leetcode/leetcode.iml" filepath="$PROJECT_DIR$/../leetcode/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/nowcoder/nowcoder.iml" filepath="$PROJECT_DIR$/nowcoder/nowcoder.iml" />
     </modules>
   </component>
